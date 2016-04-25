@@ -9,4 +9,6 @@
   <project name="codeaurora_kernel_msm" path="kernel/t2m/flame" remote="shawnbow" revision="foxfone-one-lollipop"/>
   <project name="device_t2m_flame" path="device/t2m/flame" remote="shawnbow" revision="lollipop"/>
   <project name="vendor_t2m_flame" path="vendor/t2m/flame" remote="shawnbow" revision="lollipop"/>
+
+  <remove-project name="platform/frameworks/testing"/>
 </manifest>
